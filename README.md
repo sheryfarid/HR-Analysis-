@@ -30,13 +30,4 @@ This project involves analyzing human resources (HR) data to gain insights using
 - In-depth data analysis in MySQL to extract meaningful insights.
 - Interactive Power BI dashboard showcasing HR metrics and trends.
 
-## How to Use
-
-1. Clone the repository.
-2. Load the HR dataset into MySQL.
-3. Run the provided SQL scripts for data cleaning and analysis.
-4. Export the analyzed data and import it into Power BI.
-5. Use the Power BI dashboard template to visualize the results.
-
-## Repository Structure
 
